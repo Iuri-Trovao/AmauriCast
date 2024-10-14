@@ -1,0 +1,8 @@
+button{
+    background: green;
+}
+@media (max-width: 500px){
+    button{
+        display: none;
+    }
+}
